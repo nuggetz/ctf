@@ -15,7 +15,7 @@ It serves as a reference for learning, practice, and sharing solutions with othe
 **📖 Index**
 
 **PicoCTF**
-- [WebDecode](PicoCTF/WbDecode.md)
+- [WebDecode](PicoCTF/WebDecode.md)
 
 
 Each folder contains:
