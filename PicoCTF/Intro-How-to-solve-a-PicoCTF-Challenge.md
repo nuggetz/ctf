@@ -21,12 +21,11 @@ Once you’ve logged into picoCTF, you’ll land on the Challenge Dashboard, whe
 
 Once you click on a challenge you'll be presented with a pop-up structured like this:
 
-- **Challenge Titles:** Each challenge has a descriptive name hinting at its theme.
-- **Description:** A detailed description, often including:
-- **A scenario or problem statement**.
+- **(1)Description:** A detailed description, often including:
+- **(2)Timer**: By this time the istance will close and you'll have to open it again..
 - **Links to downloadable files (if needed)**.
-- **Specific hints or clues:** There is no shame in using hints. They can often give you an important path to focus.
-- **Submission Box:** Use this to submit your answers, typically a “flag” in the format picoCTF{example_flag}.
+- **(3)Specific hints or clues:** There is no shame in using hints. They can often give you an important path to focus.
+- **(4,5)Submission Box:** Use this to submit your answers, typically a “flag” in the format picoCTF{example_flag}.
 
 <img width="738" alt="Screenshot 2024-12-20 at 15 47 01" src="https://github.com/user-attachments/assets/8dabca09-02a9-451c-8eb0-ace352a54bbf" />
 
