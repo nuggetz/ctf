@@ -28,6 +28,8 @@ Once you click on a challenge you'll be presented with a pop-up structured like 
 - **Specific hints or clues:** There is no shame in using hints. They can often give you an important path to focus.
 - **Submission Box:** Use this to submit your answers, typically a “flag” in the format picoCTF{example_flag}.
 
+<img width="738" alt="Screenshot 2024-12-20 at 15 47 01" src="https://github.com/user-attachments/assets/8dabca09-02a9-451c-8eb0-ace352a54bbf" />
+
 
 ---
 
