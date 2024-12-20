@@ -1,16 +1,20 @@
 # 🌟 How to Solve picoCTF Challenges
 
-1. Understanding the Dashboard
+
+### Understanding the Dashboard
 
 Once you’ve logged into picoCTF, you’ll land on the Challenge Dashboard, where all challenges are categorized based on their difficulty and topic. Here’s a breakdown of what you’ll see:
-- Challenge Categories:
-Challenges are grouped into topics like:
-- Cryptography: Break ciphers, decrypt messages.
-- Web Exploitation: Exploit vulnerabilities in web applications.
-- Reverse Engineering: Analyze and understand binary files.
-- Forensics: Investigate files or systems to uncover evidence.
-- General Skills: Basic skills like using Linux tools or Python.
-- Binary Exploitation: Dive into low-level system vulnerabilities.
+
+- #### Challenge Categories:
+
+	- **Cryptography:** Break ciphers, decrypt messages.
+	- **Web Exploitation:** Exploit vulnerabilities in web applications.
+	- **Reverse Engineering:** Analyze and understand binary files.
+	- **Forensics:** Investigate files or systems to uncover evidence.
+	- **General Skills:** Basic skills like using Linux tools or Python.
+	- **Binary Exploitation:** Dive into low-level system vulnerabilities.
+
+
 - Challenge Titles:
 Each challenge has a descriptive name hinting at its theme.
 - Point Values:
@@ -23,7 +27,8 @@ Clicking on a challenge reveals a detailed description, often including:
 - Submission Box:
 Use this to submit your answers, typically a “flag” in the format picoCTF{example_flag}.
 
-2. General Workflow for Solving Challenges
+
+**General Workflow for Solving Challenges** 
 	1.	Read the Problem Statement Carefully:
 Pay close attention to the challenge description for clues or subtle hints.
 	2.	Gather the Resources:
