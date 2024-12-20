@@ -34,16 +34,16 @@ Once you click on a challenge you'll be presented with a pop-up structured like 
 ### General Workflow for Solving Challenges
 
 
-1.**Read the Problem Statement Carefully:** Pay close attention to the challenge description for clues or subtle hints.
-2.**Gather the Resources:** Download any files provided and take note of any URLs, keywords, or commands.
-3.**Identify the Category:** Each challenge is tailored to specific skills. Knowing the category helps narrow down the tools and techniques to use.
-4.**Analyze the Data:** Depending on the challenge type:
-- For **cryptography:** Look for patterns, cipher types, or encoded text.
-- For **forensics:** Examine files using tools like strings, binwalk, or hex editors.
-- For **web exploitation:** Inspect the website’s source code or URLs using developer tools.
-5.**Iterate and Experiment:** Experiment with tools, scripts, or commands that fit the challenge category. Don’t be afraid to try different approaches.
-6.**Validate Your Flag:** Once you’ve found a potential solution, format it correctly (e.g., picoCTF{example}) and submit it in the box.
-7.**Take Notes:** Record your process and tools used for each challenge—it helps with reporting and learning.
+- **Read the Problem Statement Carefully:** Pay close attention to the challenge description for clues or subtle hints.
+- **Gather the Resources:** Download any files provided and take note of any URLs, keywords, or commands.
+- **Identify the Category:** Each challenge is tailored to specific skills. Knowing the category helps narrow down the tools and techniques to use.
+- **Analyze the Data:** Depending on the challenge type:
+  - For **cryptography:** Look for patterns, cipher types, or encoded text.
+  - For **forensics:** Examine files using tools like strings, binwalk, or hex editors.
+  - For **web exploitation:** Inspect the website’s source code or URLs using developer tools.
+- **Iterate and Experiment:** Experiment with tools, scripts, or commands that fit the challenge category. Don’t be afraid to try different approaches.
+- **Validate Your Flag:** Once you’ve found a potential solution, format it correctly (e.g., picoCTF{example}) and submit it in the box.
+- **Take Notes:** Record your process and tools used for each challenge—it helps with reporting and learning.
 
 
 ---
