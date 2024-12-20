@@ -15,6 +15,7 @@ It serves as a reference for learning, practice, and sharing solutions with othe
 **📖 Index**
 
 **PicoCTF**
+- [Intro - How to solve a PicoCTF Challenge](PicoCTF/Intro-How-to-solve-a-PicoCTF-Challenge.md)
 - [WebDecode](PicoCTF/Easy/Web-Exploitation/WebDecode.md)
 
 
