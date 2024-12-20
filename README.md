@@ -12,6 +12,12 @@ It serves as a reference for learning, practice, and sharing solutions with othe
 - Other providers will be added as the collection grows.
 
 
+**📖 Index**
+
+**PicoCTF**
+- [WebDecode](PicoCTF/WbDecode.md)
+
+
 Each folder contains:
 - **Challenge Write-ups**: Markdown files with detailed solutions.
 - **Resources**: Scripts or files related to the challenge (if applicable).
