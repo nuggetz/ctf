@@ -18,6 +18,7 @@ It serves as a reference for learning, practice, and sharing solutions with othe
 - [Intro - How to solve a PicoCTF Challenge](PicoCTF/Intro-How-to-solve-a-PicoCTF-Challenge.md)
 - [WebDecode](PicoCTF/Easy/Web-Exploitation/WebDecode.md)
 - [Unminify](PicoCTF/Easy/Web-Exploitation/Unminify.md)
+- [IntroToBurp](PicoCTF/Easy/Web-Exploitation/IntroToBurp.md)
 
 Each folder contains:
 - **Challenge Write-ups**: Markdown files with detailed solutions.
