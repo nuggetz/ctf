@@ -22,6 +22,7 @@ It serves as a reference for learning, practice, and sharing solutions with othe
 - [Bookmarklet](PicoCTF/Easy/Web-Exploitation/Bookmarklet.md)
 - [LocalAuthority](PicoCTF/Easy/Web-Exploitation/LocalAuthority.md)
 - [InspectHTML](PicoCTF/Easy/Web-Exploitation/InspectHTML.md)
+- [Includes](PicoCTF/Easy/Web-Exploitation/Includes.md)
 
 
 Each folder contains:
