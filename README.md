@@ -21,6 +21,8 @@ It serves as a reference for learning, practice, and sharing solutions with othe
 - [IntroToBurp](PicoCTF/Easy/Web-Exploitation/IntroToBurp.md)
 - [Bookmarklet](PicoCTF/Easy/Web-Exploitation/Bookmarklet.md)
 - [LocalAuthority](PicoCTF/Easy/Web-Exploitation/LocalAuthority.md)
+- [InspectHTML](PicoCTF/Easy/Web-Exploitation/InspectHTML.md)
+
 
 Each folder contains:
 - **Challenge Write-ups**: Markdown files with detailed solutions.
