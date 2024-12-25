@@ -20,6 +20,7 @@ It serves as a reference for learning, practice, and sharing solutions with othe
 - [Unminify](PicoCTF/Easy/Web-Exploitation/Unminify.md)
 - [IntroToBurp](PicoCTF/Easy/Web-Exploitation/IntroToBurp.md)
 - [Bookmarklet](PicoCTF/Easy/Web-Exploitation/Bookmarklet.md)
+- [LocalAuthority](PicoCTF/Easy/Web-Exploitation/LocalAuthority.md)
 
 Each folder contains:
 - **Challenge Write-ups**: Markdown files with detailed solutions.
