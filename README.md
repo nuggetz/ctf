@@ -23,6 +23,7 @@ It serves as a reference for learning, practice, and sharing solutions with othe
 - [LocalAuthority](PicoCTF/Easy/Web-Exploitation/LocalAuthority.md)
 - [InspectHTML](PicoCTF/Easy/Web-Exploitation/InspectHTML.md)
 - [Includes](PicoCTF/Easy/Web-Exploitation/Includes.md)
+- [Cookies](PicoCTF/Easy/Web-Exploitation/Cookies.md)
 
 
 Each folder contains:
