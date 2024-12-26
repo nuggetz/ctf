@@ -24,6 +24,7 @@ It serves as a reference for learning, practice, and sharing solutions with othe
 - [InspectHTML](PicoCTF/Easy/Web-Exploitation/InspectHTML.md)
 - [Includes](PicoCTF/Easy/Web-Exploitation/Includes.md)
 - [Cookies](PicoCTF/Easy/Web-Exploitation/Cookies.md)
+- [ScavengerHunt](PicoCTF/Easy/Web-Exploitation/ScavengerHunt.md)
 
 
 Each folder contains:
