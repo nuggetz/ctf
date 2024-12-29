@@ -35,6 +35,8 @@ It serves as a reference for learning, practice, and sharing solutions with othe
 
   - Cryptography
     - [interencdec](PicoCTF/Easy/Cryptography/interencdec.md)
+    - [Mod26](PicoCTF/Easy/Cryptography/Mod26.md)
+   
   
 Each folder contains:
 - **Challenge Write-ups**: Markdown files with detailed solutions.
