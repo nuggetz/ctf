@@ -32,6 +32,9 @@ It serves as a reference for learning, practice, and sharing solutions with othe
     - [logon](PicoCTF/Easy/Web-Exploitation/logon.md)
     - [Insp3ct0r](PicoCTF/Easy/Web-Exploitation/Insp3ct0r.md)
     - [where-are-the-robots](PicoCTF/Easy/Web-Exploitation/where-are-the-robots.md)
+
+  - Cryptography
+    - [interencdec](PicoCTF/Easy/Web-Exploitation/interencdec.md)
   
 Each folder contains:
 - **Challenge Write-ups**: Markdown files with detailed solutions.
