@@ -5,7 +5,7 @@
 
 This challenge hints that it should be simple, as the solution is contained in the description itself:
 
-![[Mod 26 - dash.png]]
+<img width="471" alt="Mod 26 - dash" src="https://github.com/user-attachments/assets/9d0dcaab-b7ee-47c1-ac41-e6bbfedb33f9" />
 
 
 > [!NOTE]
@@ -32,7 +32,7 @@ cvpbPGS{arkg_gvzr_V'yy_gel_2_ebhaqf_bs_ebg13_nSkgmDJE}
 
 The decoded result reveals the solution:
 
-![[Mod 26 - online solution.png]]
+<img width="1464" alt="Mod 26 - online solution" src="https://github.com/user-attachments/assets/6d213058-38e9-4802-9ec8-84dcdccc6f89" />
 
 
 **Method 2: Python Script**
