@@ -28,6 +28,8 @@ It serves as a reference for learning, practice, and sharing solutions with othe
     - [Cookies](PicoCTF/Easy/Web-Exploitation/Cookies.md)
     - [ScavengerHunt](PicoCTF/Easy/Web-Exploitation/ScavengerHunt.md)
     - [GET aHEAD](PicoCTF/Easy/Web-Exploitation/GETaHEAD.md)
+    - [dont-use-client-side](PicoCTF/Easy/Web-Exploitation/dont-use-client-side.md)
+    
 
 
 Each folder contains:
