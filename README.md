@@ -34,7 +34,7 @@ It serves as a reference for learning, practice, and sharing solutions with othe
     - [where-are-the-robots](PicoCTF/Easy/Web-Exploitation/where-are-the-robots.md)
 
   - Cryptography
-    - [interencdec](PicoCTF/Easy/Web-Exploitation/interencdec.md)
+    - [interencdec](PicoCTF/Easy/Cryptography/interencdec.md)
   
 Each folder contains:
 - **Challenge Write-ups**: Markdown files with detailed solutions.
