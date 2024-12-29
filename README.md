@@ -15,16 +15,19 @@ It serves as a reference for learning, practice, and sharing solutions with othe
 **📖 Index**
 
 **PicoCTF**
-- [Intro - How to solve a PicoCTF Challenge](PicoCTF/Intro-How-to-solve-a-PicoCTF-Challenge.md)
-- [WebDecode](PicoCTF/Easy/Web-Exploitation/WebDecode.md)
-- [Unminify](PicoCTF/Easy/Web-Exploitation/Unminify.md)
-- [IntroToBurp](PicoCTF/Easy/Web-Exploitation/IntroToBurp.md)
-- [Bookmarklet](PicoCTF/Easy/Web-Exploitation/Bookmarklet.md)
-- [LocalAuthority](PicoCTF/Easy/Web-Exploitation/LocalAuthority.md)
-- [InspectHTML](PicoCTF/Easy/Web-Exploitation/InspectHTML.md)
-- [Includes](PicoCTF/Easy/Web-Exploitation/Includes.md)
-- [Cookies](PicoCTF/Easy/Web-Exploitation/Cookies.md)
-- [ScavengerHunt](PicoCTF/Easy/Web-Exploitation/ScavengerHunt.md)
+- Easy
+  - Web Exploitation
+    - [Intro - How to solve a PicoCTF Challenge](PicoCTF/Intro-How-to-solve-a-PicoCTF-Challenge.md)
+    - [WebDecode](PicoCTF/Easy/Web-Exploitation/WebDecode.md)
+    - [Unminify](PicoCTF/Easy/Web-Exploitation/Unminify.md)
+    - [IntroToBurp](PicoCTF/Easy/Web-Exploitation/IntroToBurp.md)
+    - [Bookmarklet](PicoCTF/Easy/Web-Exploitation/Bookmarklet.md)
+    - [LocalAuthority](PicoCTF/Easy/Web-Exploitation/LocalAuthority.md)
+    - [InspectHTML](PicoCTF/Easy/Web-Exploitation/InspectHTML.md)
+    - [Includes](PicoCTF/Easy/Web-Exploitation/Includes.md)
+    - [Cookies](PicoCTF/Easy/Web-Exploitation/Cookies.md)
+    - [ScavengerHunt](PicoCTF/Easy/Web-Exploitation/ScavengerHunt.md)
+    - [GET aHEAD](PicoCTF/Easy/Web-Exploitation/GETaHEAD.md)
 
 
 Each folder contains:
