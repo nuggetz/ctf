@@ -40,7 +40,11 @@ It serves as a reference for learning, practice, and sharing solutions with othe
     - [The Numbers](PicoCTF/Easy/Web-Exploitation/TheNumbers.md)
     - [13](PicoCTF/Easy/Web-Exploitation/13.md)
 
-  
+  - Reverse-Engineering
+    - [Transformation](PicoCTF/Easy/Reverse-Engineering/Transformation.md) (Coming soon)
+    - [vault-door-training](PicoCTF/Easy/Reverse-Engineering/vault-door-training.md) (Coming soon)
+
+
 Each folder contains:
 - **Challenge Write-ups**: Markdown files with detailed solutions.
 - **Resources**: Scripts or files related to the challenge (if applicable).
