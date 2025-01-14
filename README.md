@@ -42,7 +42,7 @@ It serves as a reference for learning, practice, and sharing solutions with othe
 
   - Reverse-Engineering
     - [Transformation](PicoCTF/Easy/Reverse-Engineering/Transformation.md)
-    - [vault-door-training](PicoCTF/Easy/Reverse-Engineering/vault-door-training.md) (Coming soon)
+    - [vault-door-training](PicoCTF/Easy/Reverse-Engineering/vault-door-training.md)
 
 
 Each folder contains:
